@@ -1,0 +1,8 @@
+of all youjust need to crerate the file whatever you want :
+then go to th eproject right click->GIT->commit file   This will save the file/changes in your computer.
+But how to send this file automatically in the GIT Repository:
+on the project name right click->GIT->repository->push done
+
+
+
+It will store your data in the repository.
