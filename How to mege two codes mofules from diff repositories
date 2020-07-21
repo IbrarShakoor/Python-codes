@@ -1,0 +1,14 @@
+This file will tell you how to add two files codes into one file code:
+Ibrar open his repository he do some changes after this
+He needs to store that file on GIT.
+
+
+After the file on GIT if he wants to sent that file code to some other repository
+We need to create ther pull request and sent to teh other programmer.
+Once you are done then he accept your changes and sent accept it to you .
+then he has to click the option merged.After this mergecd option has done.
+
+
+
+If you wanna see the changes in your project then open the file and instead of push,this tie
+you need to say pull.
